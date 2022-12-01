@@ -1,0 +1,43 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+
+p {
+  font-family: Outfit, Arial;
+  font-size: 15px;
+  text-align: center;
+}
+
+.container {
+  background-color: hsl(0, 0%, 100%);
+  width: 230px;
+  height: 325px;
+  border-radius: 8px;
+  display: inline-block;
+  padding-bottom: 25px;
+  margin-top: 150px;
+  margin-bottom: 25px;
+}
+
+.qr-code-img {
+  width: 200px;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+.improve-skills-text {
+  font-weight: bold;
+  width: 195px;
+  margin-left: 17px;
+}
+
+.visit-here-text {
+  font-size: 12px;
+  color: hsl(220, 15%, 55%);
+  width: 205px;
+  margin-left: 17px;
+}
