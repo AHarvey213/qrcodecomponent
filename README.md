@@ -35,7 +35,7 @@ Going forward, I know I'll have to work on everything I have leanred so far in H
 
 ### Useful resources
 
-Two YouTube channels that helped learn HTML and CSS:
+Two YouTube channels that helped me learn HTML and CSS:
 - A six-hour course by SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc
 - A two hour crash course by DesignCourse: https://www.youtube.com/watch?v=gXLjWRteuWI
 
